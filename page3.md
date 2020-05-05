@@ -1,6 +1,6 @@
 # INFOTC 1000 Final Project
 ## Page 3
-!(tree banner)(https://www.ppt-backgrounds.net/uploads/tree-banner-quality-image.jpeg)
+![tree banner](https://www.ppt-backgrounds.net/uploads/tree-banner-quality-image.jpeg)
 
 I like to listen to music as well! I prefer to listen to rock and metal bands.
 
@@ -12,7 +12,8 @@ My **favorite** bands are:
 - and many more!
 
 However! I like to listen to all sorts of other kinds of music as well! **Especially** classical and instrumental music!
-Joe Hisaishi is my favorite composer, most well-known for composing the music we hear in Studio Ghibli movies. Beautiful stuff.
+Joe Hisaishi is my favorite composer, most well-known for composing the music we hear in Studio Ghibli movies. **Beautiful stuff.**
+
 ![Joe Hisaishi](joehisaishi.jpg)
 
 Once again, here's another block of code from INFOTC 1040:
@@ -78,7 +79,9 @@ def main():
 #function
 main()
 ```
+
 That program estimates the price of a paint job!
+
 ---
+
 Navigate between pages:
-- 
