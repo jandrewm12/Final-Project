@@ -1,5 +1,6 @@
 # INFOTC 1000 Final Project
 ## Page 1
+![tree banner](https://www.ppt-backgrounds.net/uploads/tree-banner-quality-image.jpeg)
 
 This is the **first page** of my final project! It will show some random things about me!
 ---
