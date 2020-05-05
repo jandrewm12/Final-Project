@@ -1,5 +1,5 @@
-#INFOTC 1000 Final Project
-##Page 1
+# INFOTC 1000 Final Project
+## Page 1
 
 This is the **first page** of my final project! It will show some random things about me!
 ---
