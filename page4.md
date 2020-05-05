@@ -7,6 +7,12 @@ I also *love* food! My favorite place to eat is [Shake Shack](https://www.shakes
 
 Their burgers and fries (and shakes!) are **delicious**!
 
+I also like to eat at other fast food places, like:
+- McDonald's
+- Chick-Fil-A
+- Burger King
+
+
 ---
 
 Here's yet *another* snippet of code from class:
