@@ -12,7 +12,7 @@ My **favorite** bands are:
 - and many more!
 
 However! I like to listen to all sorts of other kinds of music as well! **Especially** classical and instrumental music!
-Joe Hisaishi is my favorite composer, most well-known for composing the music we hear in Studio Ghibli movies. **Beautiful stuff.**
+Joe Hisaishi is my favorite composer, most well-known for composing the music we hear in Studio Ghibli movies. **[Beautiful stuff](https://www.youtube.com/watch?v=TK1Ij_-mank).**
 
 ![Joe Hisaishi](joehisaishi.jpg)
 
