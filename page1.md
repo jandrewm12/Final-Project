@@ -3,6 +3,7 @@
 
 This is the **first page** of my final project! It will show some random things about me!
 ---
+![my family and me](familypic.jpg)
 
 - My *favorite* tech company is [Apple](https://www.apple.com/)!
 - I'm in INFOTC 1040 as well!
@@ -16,6 +17,6 @@ print("I'm from Hamilton, MO.")
 print('I love technology!')
 print("I'm excited for what's to come in this class and beyond!")
 ```
-And I've come a long way since then!
+And I've come a **long** way since then!
 ---
 Navigate between the other pages:
