@@ -1,10 +1,9 @@
 # INFOTC 1000 Final Project
-## Page 1
+## Page One
 ![tree banner](https://www.ppt-backgrounds.net/uploads/tree-banner-quality-image.jpeg)
----
 
 This is the __first page__ of my final project! It will show some random things about me!
----
+
 ![my family and me](familypic.jpg)
 
 - My *favorite* tech company is [Apple](https://www.apple.com/)!
@@ -19,8 +18,8 @@ print("I'm from Hamilton, MO.")
 print('I love technology!')
 print("I'm excited for what's to come in this class and beyond!")
 ```
-And I've come a __long way since then!
----
+And I've come a __long__ way since then!
+
 Navigate between the other pages:
 - Page 1
 - [Page 2](page2.md)
