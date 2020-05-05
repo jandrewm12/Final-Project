@@ -1,5 +1,5 @@
 # INFOTC 1000 Final Project
-## Page One
+## Page 1
 ![tree banner](https://www.ppt-backgrounds.net/uploads/tree-banner-quality-image.jpeg)
 
 This is the __first page__ of my final project! It will show some random things about me!
