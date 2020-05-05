@@ -3,6 +3,7 @@
 
 This is the **first page** of my final project! It will show some random things about me!
 ---
+
 - My *favorite* tech company is [Apple](https://www.apple.com/)!
 - I'm in INFOTC 1040 as well!
 - I like food, technology, and music!
