@@ -3,6 +3,7 @@
 ![mountain banner](https://cdn.pixabay.com/photo/2017/03/31/16/11/banner-2191712_960_720.jpg)
 
 I also *love* food! My favorite place to eat is [Shake Shack](https://www.shakeshack.com/)!
+
 ![Shake Shack](shakeshack.jpg)
 
 Their burgers and fries (and shakes!) are **delicious**!
