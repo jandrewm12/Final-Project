@@ -11,13 +11,13 @@ I was a little nervous when I decided to switch from Bio to IT, but I'm glad I d
 ![Code Picture](codepic.png)
 
 I'm excited to learn all sorts of new things in the coming semesters, including:
-- More programming
-- More media design
-- and more, and more IT stuff!
+- *More programming*
+- *More media design*
+- *and more, and more IT stuff!*
 
 ---
 
-Here's my final code snippet for this project!
+Here's my **final** code snippet for this project!
 
 ```
 #recursion and turtle graphics
