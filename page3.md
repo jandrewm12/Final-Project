@@ -85,3 +85,8 @@ That program estimates the price of a paint job!
 ---
 
 Navigate between pages:
+- [Page One](page1.md)
+- [Page Two](page2.md)
+- Page Three
+- [Page Four](page4.md)
+- [Page Five](page5.md)
