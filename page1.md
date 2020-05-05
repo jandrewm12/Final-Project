@@ -1,6 +1,7 @@
 # INFOTC 1000 Final Project
 ## Page 1
 ![tree banner](https://www.ppt-backgrounds.net/uploads/tree-banner-quality-image.jpeg)
+---
 
 This is the **first page** of my final project! It will show some random things about me!
 ---
@@ -18,7 +19,7 @@ print("I'm from Hamilton, MO.")
 print('I love technology!')
 print("I'm excited for what's to come in this class and beyond!")
 ```
-And I've come a ** long ** way since then!
+And I've come a **long** way since then!
 ---
 Navigate between the other pages:
 - Page 1
